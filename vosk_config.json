@@ -1,4 +1,4 @@
-{"model": "vosk-model-small-en-us-0.15",
+{"model": "vosk-model-en-us-0.22",
 "chunk": 4096,
 "channels": 1,
 "rate": 16000}
